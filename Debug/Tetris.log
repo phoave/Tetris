@@ -1,0 +1,9 @@
+﻿  Board.cpp
+  Cell.cpp
+  Game.cpp
+  Piece.cpp
+C:\Users\Abdulmalik Adan\Documents\GitHub\Tetris\Piece.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris.cpp
+  Generating Code...
+C:\Users\Abdulmalik Adan\Documents\GitHub\Tetris\Game.cpp(57): warning C4715: 'Game::regame': not all control paths return a value
+  Tetris.vcxproj -> C:\Users\Abdulmalik Adan\Documents\GitHub\Tetris\Debug\Tetris.exe
